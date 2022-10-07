@@ -1,0 +1,35 @@
+/* Write your CSS code here */
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  list-style-type: none;
+  padding: 0px;
+  width: 100%;
+}
+
+.icon-holder {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.icon-image {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+.icon-name {
+  font-size: 18px;
+  font-weight: bold;
+  color: #12022f;
+  margin-right: 50px;
+  text-decoration: none;
+}
+
+.left-margin {
+  margin-left: auto;
+}

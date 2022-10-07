@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.about-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  list-style-type: none;
+}
+
+.about-image {
+  width: 180px;
+  height: 180px;
+}
+
+.about-heading {
+  font-size: 46px;
+  color: #6d396b;
+}
+
+.about-para {
+  font-size: 20px;
+  color: #555555;
+}
